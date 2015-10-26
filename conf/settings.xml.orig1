@@ -25,18 +25,18 @@
       <repositories>
         <repository>
           <id>releases</id>
-          <url>http://nexus.ivq.tcs/nexus/content/repositories/releases</url>
+          <url>http://nexus.ivq.tcs:8081/nexus/content/repositories/releases</url>
         </repository>
 	 <repository>
           <id>shamiya-snapshot</id>
-          <url>http://nexus.ivq.tcs/nexus/content/repositories/shamiya-snapshot</url>
+          <url>http://nexus.ivq.tcs:8081/nexus/content/repositories/shamiya-snapshot</url>
         </repository>
 
       </repositories>
       <pluginRepositories>
         <pluginRepository>
           <id>releases</id>
-          <url>http://nexus.ivq.tcs/nexus/content/repositories/releases</url>
+          <url>http://nexus.ivq.tcs:8081/nexus/content/repositories/releases</url>
         </pluginRepository>
       </pluginRepositories>
     </profile>
